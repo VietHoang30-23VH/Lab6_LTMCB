@@ -1,0 +1,10 @@
+D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\bin\Debug\Lab6.exe.config
+D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\bin\Debug\Lab6.exe
+D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\bin\Debug\Lab6.pdb
+D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.Bai1.resources
+D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.exe
+D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.pdb

@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Winform\\Lab6\\",
+  "WorkspaceRootPath": "D:\\HK2_2024\\laptrinhmangcanban\\Lab6_LTMCB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|d:\\winform\\lab6\\lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|d:\\hk2_2024\\laptrinhmangcanban\\lab6_ltmcb\\lab6\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|d:\\hk2_2024\\laptrinhmangcanban\\lab6_ltmcb\\lab6\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,22 +18,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1179696088:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1243473454:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Winform\\Lab6\\Lab6\\Form1.cs",
-              "RelativeDocumentMoniker": "Lab6\\Form1.cs",
-              "ToolTip": "D:\\Winform\\Lab6\\Lab6\\Form1.cs [Design]",
-              "RelativeToolTip": "Lab6\\Form1.cs [Design]",
+              "Title": "Bai1.cs",
+              "DocumentMoniker": "D:\\HK2_2024\\laptrinhmangcanban\\Lab6_LTMCB\\Lab6\\Bai1.cs",
+              "RelativeDocumentMoniker": "Lab6\\Bai1.cs",
+              "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\Lab6_LTMCB\\Lab6\\Bai1.cs",
+              "RelativeToolTip": "Lab6\\Bai1.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAEkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T05:25:19.106Z",
+              "WhenOpened": "2024-06-11T08:00:17.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai1.cs [Design]",
+              "DocumentMoniker": "D:\\HK2_2024\\laptrinhmangcanban\\Lab6_LTMCB\\Lab6\\Bai1.cs",
+              "RelativeDocumentMoniker": "Lab6\\Bai1.cs",
+              "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\Lab6_LTMCB\\Lab6\\Bai1.cs [Design]",
+              "RelativeToolTip": "Lab6\\Bai1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:53:27.43Z",
               "EditorCaption": " [Design]"
             }
           ]
