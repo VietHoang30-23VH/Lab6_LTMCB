@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Winform\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|d:\\winform\\lab6\\lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Winform\\Lab6\\Lab6\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab6\\Form1.cs",
+              "ToolTip": "D:\\Winform\\Lab6\\Lab6\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:25:19.106Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
