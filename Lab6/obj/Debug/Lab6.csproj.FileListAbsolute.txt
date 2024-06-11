@@ -8,3 +8,14 @@ D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.csproj.GenerateRes
 D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
 D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.exe
 D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.pdb
+D:\WindowForm C#\Lab6_LTMCB\Lab6\bin\Debug\Lab6.exe.config
+D:\WindowForm C#\Lab6_LTMCB\Lab6\bin\Debug\Lab6.exe
+D:\WindowForm C#\Lab6_LTMCB\Lab6\bin\Debug\Lab6.pdb
+D:\WindowForm C#\Lab6_LTMCB\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+D:\WindowForm C#\Lab6_LTMCB\Lab6\obj\Debug\Lab6.Bai1.resources
+D:\WindowForm C#\Lab6_LTMCB\Lab6\obj\Debug\Lab6.Bai2.resources
+D:\WindowForm C#\Lab6_LTMCB\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+D:\WindowForm C#\Lab6_LTMCB\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+D:\WindowForm C#\Lab6_LTMCB\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\WindowForm C#\Lab6_LTMCB\Lab6\obj\Debug\Lab6.exe
+D:\WindowForm C#\Lab6_LTMCB\Lab6\obj\Debug\Lab6.pdb

@@ -25,7 +25,8 @@ namespace Lab6
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            Bai2 bai2 = new Bai2();
+            bai2.ShowDialog();
         }
 
         private void button3_Click(object sender, EventArgs e)
