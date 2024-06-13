@@ -1,21 +1,15 @@
-D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\bin\Debug\Lab6.exe.config
-D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\bin\Debug\Lab6.exe
-D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\bin\Debug\Lab6.pdb
-D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
-D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.Bai1.resources
-D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.Properties.Resources.resources
-D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
-D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
-D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.exe
-D:\HK2_2024\laptrinhmangcanban\Lab6_LTMCB\Lab6\obj\Debug\Lab6.pdb
-D:\WindowForm C#\Lab6_LTMCB\Lab6\bin\Debug\Lab6.exe.config
-D:\WindowForm C#\Lab6_LTMCB\Lab6\bin\Debug\Lab6.exe
-D:\WindowForm C#\Lab6_LTMCB\Lab6\bin\Debug\Lab6.pdb
-D:\WindowForm C#\Lab6_LTMCB\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
-D:\WindowForm C#\Lab6_LTMCB\Lab6\obj\Debug\Lab6.Bai1.resources
-D:\WindowForm C#\Lab6_LTMCB\Lab6\obj\Debug\Lab6.Bai2.resources
-D:\WindowForm C#\Lab6_LTMCB\Lab6\obj\Debug\Lab6.Properties.Resources.resources
-D:\WindowForm C#\Lab6_LTMCB\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
-D:\WindowForm C#\Lab6_LTMCB\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
-D:\WindowForm C#\Lab6_LTMCB\Lab6\obj\Debug\Lab6.exe
-D:\WindowForm C#\Lab6_LTMCB\Lab6\obj\Debug\Lab6.pdb
+D:\Winform\Lab6\Lab6\bin\Debug\Lab6.exe.config
+D:\Winform\Lab6\Lab6\bin\Debug\Lab6.exe
+D:\Winform\Lab6\Lab6\bin\Debug\Lab6.pdb
+D:\Winform\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+D:\Winform\Lab6\Lab6\obj\Debug\Lab6.Bai3.resources
+D:\Winform\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+D:\Winform\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+D:\Winform\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+D:\Winform\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\Winform\Lab6\Lab6\obj\Debug\Lab6.exe
+D:\Winform\Lab6\Lab6\obj\Debug\Lab6.pdb
+D:\Winform\Lab6\Lab6\obj\Debug\Lab6.Client.resources
+D:\Winform\Lab6\Lab6\obj\Debug\Lab6.Server.resources
+D:\Winform\Lab6\Lab6\obj\Debug\Lab6.Bai1.resources
+D:\Winform\Lab6\Lab6\obj\Debug\Lab6.Bai2.resources

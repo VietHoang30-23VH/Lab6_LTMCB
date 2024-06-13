@@ -19,7 +19,7 @@ namespace Lab6
 
         private void Bai1_Click(object sender, EventArgs e)
         {
-            Bai1 bai1= new Bai1();
+            Bai1 bai1 = new Bai1();
             bai1.ShowDialog();
         }
 
@@ -31,7 +31,8 @@ namespace Lab6
 
         private void button3_Click(object sender, EventArgs e)
         {
-           
+            Bai3 bai3 = new Bai3();
+            bai3.ShowDialog();
         }
     }
 }

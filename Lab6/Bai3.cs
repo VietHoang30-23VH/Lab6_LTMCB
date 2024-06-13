@@ -16,5 +16,16 @@ namespace Lab6
         {
             InitializeComponent();
         }
+
+        private void btnServer_Click(object sender, EventArgs e)
+        {
+            Server server = new Server();  
+            server.Show();
+        }
+        private void btnClient_Click_1(object sender, EventArgs e)
+        {
+            Client client = new Client();
+            client.Show();
+        }
     }
 }

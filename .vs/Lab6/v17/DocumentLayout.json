@@ -1,26 +1,60 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\WindowForm C#\\Lab6_LTMCB\\",
+  "WorkspaceRootPath": "D:\\Winform\\Lab6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|d:\\windowform c#\\lab6_ltmcb\\lab6\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|d:\\winform\\lab6\\lab6\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|d:\\windowform c#\\lab6_ltmcb\\lab6\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|D:\\Winform\\Lab6\\lab6\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|d:\\windowform c#\\lab6_ltmcb\\lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|D:\\Winform\\Lab6\\lab6\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|d:\\windowform c#\\lab6_ltmcb\\lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|D:\\Winform\\Lab6\\lab6\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|D:\\Winform\\Lab6\\lab6\\aescrypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\aescrypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|D:\\Winform\\Lab6\\lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|D:\\WindowForm C#\\Lab6_LTMCB\\lab6\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|d:\\winform\\lab6\\lab6\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|D:\\Winform\\Lab6\\lab6\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|D:\\Winform\\Lab6\\lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|D:\\Winform\\Lab6\\lab6\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|D:\\Winform\\Lab6\\lab6\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|D:\\Winform\\Lab6\\lab6\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2B6D08-D8DB-4D6A-A430-20C12F165FC1}|Lab6\\Lab6.csproj|solutionrelative:lab6\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\socket-master\\socket-master\\GameSocket\\frm_Server.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\socket-master\\socket-master\\GameSocket\\frm_Server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +64,186 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Bai2.cs",
-              "DocumentMoniker": "D:\\WindowForm C#\\Lab6_LTMCB\\Lab6\\Bai2.cs",
-              "RelativeDocumentMoniker": "Lab6\\Bai2.cs",
-              "ToolTip": "D:\\WindowForm C#\\Lab6_LTMCB\\Lab6\\Bai2.cs",
-              "RelativeToolTip": "Lab6\\Bai2.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAkwE0AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T09:25:46.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bai2.cs [Design]",
-              "DocumentMoniker": "D:\\WindowForm C#\\Lab6_LTMCB\\Lab6\\Bai2.cs",
-              "RelativeDocumentMoniker": "Lab6\\Bai2.cs",
-              "ToolTip": "D:\\WindowForm C#\\Lab6_LTMCB\\Lab6\\Bai2.cs [Design]",
-              "RelativeToolTip": "Lab6\\Bai2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T09:18:34.936Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\WindowForm C#\\Lab6_LTMCB\\Lab6\\Form1.cs",
-              "RelativeDocumentMoniker": "Lab6\\Form1.cs",
-              "ToolTip": "D:\\WindowForm C#\\Lab6_LTMCB\\Lab6\\Form1.cs",
-              "RelativeToolTip": "Lab6\\Form1.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAQAAAA",
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Winform\\Lab6\\Lab6\\Client.cs",
+              "RelativeDocumentMoniker": "Lab6\\Client.cs",
+              "ToolTip": "D:\\Winform\\Lab6\\Lab6\\Client.cs",
+              "RelativeToolTip": "Lab6\\Client.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwBIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T09:16:37.72Z",
+              "WhenOpened": "2024-06-12T16:56:29.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "AESCrypto.cs",
+              "DocumentMoniker": "D:\\Winform\\Lab6\\Lab6\\AESCrypto.cs",
+              "RelativeDocumentMoniker": "Lab6\\AESCrypto.cs",
+              "ToolTip": "D:\\Winform\\Lab6\\Lab6\\AESCrypto.cs",
+              "RelativeToolTip": "Lab6\\AESCrypto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:38:38.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\WindowForm C#\\Lab6_LTMCB\\Lab6\\Form1.cs",
+              "DocumentMoniker": "D:\\Winform\\Lab6\\Lab6\\Form1.cs",
               "RelativeDocumentMoniker": "Lab6\\Form1.cs",
-              "ToolTip": "D:\\WindowForm C#\\Lab6_LTMCB\\Lab6\\Form1.cs [Design]",
+              "ToolTip": "D:\\Winform\\Lab6\\Lab6\\Form1.cs [Design]",
               "RelativeToolTip": "Lab6\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T09:15:12.747Z",
+              "WhenOpened": "2024-06-11T05:25:19.106Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Winform\\Lab6\\Lab6\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab6\\Form1.cs",
+              "ToolTip": "D:\\Winform\\Lab6\\Lab6\\Form1.cs",
+              "RelativeToolTip": "Lab6\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:32:25.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bai3.cs [Design]",
+              "DocumentMoniker": "D:\\Winform\\Lab6\\Lab6\\Bai3.cs",
+              "RelativeDocumentMoniker": "Lab6\\Bai3.cs",
+              "ToolTip": "D:\\Winform\\Lab6\\Lab6\\Bai3.cs [Design]",
+              "RelativeToolTip": "Lab6\\Bai3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:33:20.98Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "D:\\Winform\\Lab6\\Lab6\\Client.cs",
+              "RelativeDocumentMoniker": "Lab6\\Client.cs",
+              "ToolTip": "D:\\Winform\\Lab6\\Lab6\\Client.cs [Design]",
+              "RelativeToolTip": "Lab6\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:04:10.739Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "D:\\Winform\\Lab6\\Lab6\\Server.cs",
+              "RelativeDocumentMoniker": "Lab6\\Server.cs",
+              "ToolTip": "D:\\Winform\\Lab6\\Lab6\\Server.cs [Design]",
+              "RelativeToolTip": "Lab6\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:03:59.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "D:\\Winform\\Lab6\\Lab6\\Server.cs",
+              "RelativeDocumentMoniker": "Lab6\\Server.cs",
+              "ToolTip": "D:\\Winform\\Lab6\\Lab6\\Server.cs",
+              "RelativeToolTip": "Lab6\\Server.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAswIUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:46:03.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Server.Designer.cs",
+              "DocumentMoniker": "D:\\Winform\\Lab6\\Lab6\\Server.Designer.cs",
+              "RelativeDocumentMoniker": "Lab6\\Server.Designer.cs",
+              "ToolTip": "D:\\Winform\\Lab6\\Lab6\\Server.Designer.cs",
+              "RelativeToolTip": "Lab6\\Server.Designer.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAApwHQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:16:55.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Bai1.cs [Design]",
-              "DocumentMoniker": "D:\\WindowForm C#\\Lab6_LTMCB\\Lab6\\Bai1.cs",
+              "DocumentMoniker": "D:\\Winform\\Lab6\\Lab6\\Bai1.cs",
               "RelativeDocumentMoniker": "Lab6\\Bai1.cs",
-              "ToolTip": "D:\\WindowForm C#\\Lab6_LTMCB\\Lab6\\Bai1.cs [Design]",
+              "ToolTip": "D:\\Winform\\Lab6\\Lab6\\Bai1.cs [Design]",
               "RelativeToolTip": "Lab6\\Bai1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T07:53:27.43Z",
+              "WhenOpened": "2024-06-13T15:53:34.963Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.Designer.cs",
+              "DocumentMoniker": "D:\\Winform\\Lab6\\Lab6\\Client.Designer.cs",
+              "RelativeDocumentMoniker": "Lab6\\Client.Designer.cs",
+              "ToolTip": "D:\\Winform\\Lab6\\Lab6\\Client.Designer.cs",
+              "RelativeToolTip": "Lab6\\Client.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:52:07.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bai3.cs",
+              "DocumentMoniker": "D:\\Winform\\Lab6\\Lab6\\Bai3.cs",
+              "RelativeDocumentMoniker": "Lab6\\Bai3.cs",
+              "ToolTip": "D:\\Winform\\Lab6\\Lab6\\Bai3.cs",
+              "RelativeToolTip": "Lab6\\Bai3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:30:55.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frm_Server.cs",
+              "DocumentMoniker": "D:\\socket-master\\socket-master\\GameSocket\\frm_Server.cs",
+              "RelativeDocumentMoniker": "..\\..\\socket-master\\socket-master\\GameSocket\\frm_Server.cs",
+              "ToolTip": "D:\\socket-master\\socket-master\\GameSocket\\frm_Server.cs",
+              "RelativeToolTip": "..\\..\\socket-master\\socket-master\\GameSocket\\frm_Server.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAKgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:18:24.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frm_Server.Designer.cs",
+              "DocumentMoniker": "D:\\socket-master\\socket-master\\GameSocket\\frm_Server.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\socket-master\\socket-master\\GameSocket\\frm_Server.Designer.cs",
+              "ToolTip": "D:\\socket-master\\socket-master\\GameSocket\\frm_Server.Designer.cs",
+              "RelativeToolTip": "..\\..\\socket-master\\socket-master\\GameSocket\\frm_Server.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:20:43.023Z"
             }
           ]
         }
